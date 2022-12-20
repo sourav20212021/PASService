@@ -8,5 +8,8 @@ public class Bonds_Ctrl {
   public void bond_2(){
     System.out.println("Bonds-2");
   }
+  public void bond_3(){
+    System.out.println("Bonds-3");
+  }
 
 }
