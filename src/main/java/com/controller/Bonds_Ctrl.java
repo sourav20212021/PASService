@@ -11,5 +11,8 @@ public class Bonds_Ctrl {
   public void bond_3(){
     System.out.println("Bonds-3");
   }
+  public void bond_4(){
+	    System.out.println("Bonds-4");
+  }
 
 }
