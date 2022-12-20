@@ -14,10 +14,10 @@ public class Stock_Cntrl {
 	public void cntrl_4() {
 		System.out.println("Stock Controller-4");
 	}
-	public void cntrl_5() {
+	public void cntrl_5_0() {
 		System.out.println("Stock Controller-5");
 	}
-	public void cntrl_6() {
+	public void cntrl_6_0() {
 		System.out.println("Stock Controller-6");
 	}
 
