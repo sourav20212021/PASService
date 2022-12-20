@@ -5,6 +5,12 @@ public class Stock_Cntrl {
 	public void cntrl_1() {
 		System.out.println("Stock Controller-1");
 	}
+	public void cntrl_x() {
+		System.out.println("Stock Controller-x");
+	}
+	public void cntrl_5() {
+		System.out.println("Stock Controller-4");
+	}
 	public void cntrl_2() {
 		System.out.println("Stock Controller-2");
 	}
