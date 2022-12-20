@@ -11,5 +11,11 @@ public class Stock_Cntrl {
 	public void cntrl_3() {
 		System.out.println("Stock Controller-3");
 	}
+	public void cntrl_4() {
+		System.out.println("Stock Controller-4");
+	}
+	public void cntrl_5() {
+		System.out.println("Stock Controller-5");
+	}
 
 }
