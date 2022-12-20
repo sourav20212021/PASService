@@ -5,6 +5,9 @@ public class Stock_Cntrl {
 	public void cntrl_1() {
 		System.out.println("Stock Controller-1");
 	}
+	public void cntrl_6() {
+		System.out.println("Stock Controller-6");
+	}
 	public void cntrl_2() {
 		System.out.println("Stock Controller-2");
 	}
