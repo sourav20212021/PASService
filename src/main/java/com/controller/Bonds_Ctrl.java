@@ -11,6 +11,12 @@ public class Bonds_Ctrl {
   public void bond_x2(){
     System.out.println("Bonds-2");
   }
+  public void bond_x7(){
+	    System.out.println("Bonds-7");
+  }
+  public void bond_x0(){
+	    System.out.println("Bonds-0");
+  }
   public void bond_x3(){
     System.out.println("Bonds-2");
   }	
